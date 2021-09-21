@@ -1,6 +1,6 @@
 - Hi, I’m @TR-ASHcoder
 - I’m currently learning python. soon node.js
-- im currently working on a music bot for discord ( will never be public ) 
+- im currently working on a bot for discord
 - How to reach me: 
 
 +discord : TR ASH#7081
