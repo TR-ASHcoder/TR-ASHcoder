@@ -8,6 +8,7 @@
 +gmail ( might not respond as quick ) : trash3791@gmail.com 
 
 - i also do youtube:
+
 +https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g
 sub if you want to
 
