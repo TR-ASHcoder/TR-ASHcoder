@@ -10,6 +10,7 @@
 - i also do youtube:
 
 +https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g
+
 sub if you want to
 
 
@@ -22,5 +23,5 @@ sub if you want to
 
 ____
 
-![image](https://user-images.githubusercontent.com/90879002/145317176-3575ae7a-c48e-42d5-98a0-4ad94ba0922b.jpeg)
+![image](https://user-images.githubusercontent.com/90879002/145334026-b11be247-6dc3-4d4b-ac3e-14697b7efc15.png)
 
