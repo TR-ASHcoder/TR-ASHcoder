@@ -1,6 +1,6 @@
 - Hi, I’m @TR-ASHcoder
 - I’m currently learning python,batch and soon node.js
-- im currently doing school so no more coding for a while
+- im currently doing nothing new execpt for updating and hosting MpFree ( my music bot, will never be public lol ) 
 - How to reach me: 
 
 +discord : TR ASH#7081
