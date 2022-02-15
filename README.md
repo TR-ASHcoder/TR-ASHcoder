@@ -1,6 +1,6 @@
 - Hi, I’m @TR-ASHcoder
 - I’m currently learning python,batch and soon node.js
-- im currently making a currency bot named Yellow Boat and leanring a new promgraming laguage named "lua"
+- im currently making a currency bot named Yellow Boat and learnimg a new promgraming laguage named "lua"
 - How to reach me: 
 
 +discord : TR ASH#7081
