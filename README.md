@@ -1,6 +1,6 @@
 - Hi, I’m @TR-ASHcoder
 - I’m currently learning python,batch and soon node.js
-- im currently doing nothing new execpt for updating and hosting MpFree ( my music bot, will never be public lol ) 
+- im currently making a currency bot named Yellow Boat and leanring a new promgraming laguage named "lua"
 - How to reach me: 
 
 +discord : TR ASH#7081
