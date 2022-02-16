@@ -1,5 +1,5 @@
 - Hi, I’m @TR-ASHcoder
-- I’m currently learning batch,python,c# and html
+- I’m currently learning batch,python,c# and html ( and maybe one day.. js/node.js )
 - im currently making a currency bot named Yellow Boat 
 - How to reach me: 
 
