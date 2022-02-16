@@ -23,8 +23,7 @@ sub if you want to
 
 ____
 
-![image](https://user-images.githubusercontent.com/90879002/145528101-e83ea6d7-ebb4-4ed7-9cc2-d459c74325e9.png)
-
+![cod](https://user-images.githubusercontent.com/90879002/154206054-41351009-0468-41f1-9708-04006dd02028.png)
 
 
 
