@@ -2,7 +2,7 @@
 - I’m currently learning batch,python,c# and html ( and maybe one day.. js/node.js )
 - im currently working on two bots one named `Yellow Boat` and one named `managese heptoxide` with a friend
 ( [follow him](https://github.com/ktehllama) (⊙_⊙;) ) 
-- i use [Vscode](https://code.visualstudio.com/docs/?dv=win) because [Vs](https://www.urbandictionary.com/define.php?term=you%20thought) is gross
+- i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS](https://www.urbandictionary.com/define.php?term=you%20thought) is gross
 
 # How to reach me: 
 
