@@ -1,6 +1,6 @@
 - Hi, I’m @TR-ASHcoder
 - I’m currently learning batch,python,c# and html ( and maybe one day.. js/node.js )
-- im currently making a currency bot named Yellow Boat 
+- im currently working on two bots one named `Yellow Boat` and one named `managese heptoxide` with a friend ( @ktehllama (⊙_⊙;) ) 
 - How to reach me: 
 
 +discord : TR ASH#7081
