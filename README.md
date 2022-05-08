@@ -1,6 +1,9 @@
 - Hi, I’m @TR-ASHcoder
 - I’m currently learning batch,python,c# and html ( and maybe one day.. js/node.js )
-- im currently working on two bots one named `Yellow Boat` and one named `managese heptoxide` with a friend  ( @ktehllama (⊙_⊙;) ) 
+- im currently working on two bots one named `Yellow Boat` and one named `managese heptoxide` with a friend
+( [lam](https://github.com/ktehllama) (⊙_⊙;) ) 
+- i use [Vscode](https://code.visualstudio.com/docs/?dv=win) because vs is gross
+
 - How to reach me: 
 
 +discord : TR ASH#7081
