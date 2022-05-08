@@ -12,7 +12,7 @@
 
 # i also do youtube:
 
-+https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g
++[TR ASH](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
 
 sub if you want to
 
