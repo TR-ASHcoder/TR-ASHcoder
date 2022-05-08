@@ -1,16 +1,16 @@
-- Hi, I’m @TR-ASHcoder
+# Hi, I’m @TR-ASHcoder
 - I’m currently learning batch,python,c# and html ( and maybe one day.. js/node.js )
 - im currently working on two bots one named `Yellow Boat` and one named `managese heptoxide` with a friend
-( [lam](https://github.com/ktehllama) (⊙_⊙;) ) 
-- i use [Vscode](https://code.visualstudio.com/docs/?dv=win) because vs is gross
+( [follow him](https://github.com/ktehllama) (⊙_⊙;) ) 
+- i use [Vscode](https://code.visualstudio.com/docs/?dv=win) because [Vs](https://www.urbandictionary.com/define.php?term=you%20thought) is gross
 
-- How to reach me: 
+# How to reach me: 
 
 +discord : TR ASH#7081
 
 +gmail ( might not respond as quick ) : trash3791@gmail.com
 
-- i also do youtube:
+# i also do youtube:
 
 +https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g
 
