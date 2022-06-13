@@ -25,7 +25,8 @@ sub if you want to
 
 ____
 
-![cod](https://user-images.githubusercontent.com/90879002/154206054-41351009-0468-41f1-9708-04006dd02028.png)
+![image](https://user-images.githubusercontent.com/90879002/173332865-a2bca0a3-3f7a-470a-bd9a-245bfe3d42b9.png)
+
 
 
 
