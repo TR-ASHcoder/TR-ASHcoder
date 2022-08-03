@@ -1,4 +1,4 @@
-# Hi, I’m @TR-ASHcoder
+# Hi, I’m TR-ASHcoder but you can call me *TR ASH*
 - I’m currently learning batch, python, c# and html\css 
 
 
@@ -11,13 +11,13 @@
 
 # How to reach me: 
 
-+discord : TR ASH#7081
+***discord: TR ASH#7081***
 
-+gmail ( might not respond as quick ) : trash3791@gmail.com
+***gmail ( might not respond as quick ): trash3791@gmail.com***
 
 # i also do youtube:
 
-+[TR ASH](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
+[***TR ASH***](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
 
 sub if you want to
 
