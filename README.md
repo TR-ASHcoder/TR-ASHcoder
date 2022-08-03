@@ -32,7 +32,7 @@ ____
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TR-ASHcoder&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TR-ASHcoder&layout=demo&theme=tokyonight" />
   <br/>
   <br/> 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TR-ASHcoder&layout=compact&exclude_lang=ruby&theme=tokyonight" />
