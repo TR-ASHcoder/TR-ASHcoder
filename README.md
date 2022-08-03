@@ -31,7 +31,11 @@ sub if you want to
 ____
 
 
-![image](https://user-images.githubusercontent.com/90879002/173332865-a2bca0a3-3f7a-470a-bd9a-245bfe3d42b9.png)
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/385354004114178050.png"/>
+  <br />
+  <br />
+</p>
 
 
 
