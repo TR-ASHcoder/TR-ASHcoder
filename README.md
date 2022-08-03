@@ -32,7 +32,7 @@ ____
 
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/385354004114178050.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/385354004114178050.png"/>
   <br />
   <br />
 </p>
