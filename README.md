@@ -1,8 +1,8 @@
-# Hi, I’m TR-ASHcoder but you can call me *TR ASH*
+# hello fellow coder, I’m TR-ASHcoder but you can call me *TR ASH*
 - I’m currently learning batch, python, c# and html\css 
 
 
-- i'm working on a [website](https://deznats.000webhostapp.com/)!!, and refreshing my discord bot `MpFree` while learning a new python library `nextcord`
+- at the moment i'm working on a [website](https://deznats.000webhostapp.com/)!!, and refreshing my discord bot `MpFree` while learning a new python library `nextcord`
 
 
 - i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS](https://www.google.com/search?q=shit&sxsrf=ALiCzsa1b56wH9vLVv6gyemEGeZG3aZgyA:1655197336692&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUjaXKyqz4AhVI4nMBHS0DC1UQ_AUoAXoECAEQAw) is gross
