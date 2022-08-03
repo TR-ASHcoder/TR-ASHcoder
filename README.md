@@ -35,6 +35,9 @@ ____
   <img src="https://github-readme-stats.vercel.app/api?username=TR-ASHcoder&theme=tokyonight" />
   <br/>
   <br/> 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TR-ASHcoder&layout=compact&exclude_lang=ruby&theme=tokyonight" />
+  <br/>
+  <br/> 
   <img src="https://discord.c99.nl/widget/theme-4/385354004114178050.png"/>
   <br />
   <br />
