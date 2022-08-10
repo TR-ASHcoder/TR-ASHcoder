@@ -13,9 +13,9 @@
 
 # How to reach me: 
 
-- ***discord: TR ASH#7081***
+- [***discord: TR ASH#7081***](https://discord.gg/gvnj4jEV)
 
-- ***gmail ( might not respond as quick ): trash3791@gmail.com***
+- [***gmail ( might not respond as quick )***](trash3791@gmail.com)
 
 # i also do youtube:
 
