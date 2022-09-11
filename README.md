@@ -21,6 +21,10 @@
 
 - [***TR ASH***](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
 
+- [***TR ASH 2***](https://www.youtube.com/channel/UCXSm6rL33g7y_19mjrnuoVQ)
+
+- [***Pogcast***](https://www.youtube.com/channel/UCv501WiSQ5ePSuVOqyVG4Rw)
+
 sub if you want to
 
 
