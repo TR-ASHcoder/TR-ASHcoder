@@ -5,7 +5,7 @@
 - at the moment i'm working on my [website](https://deznats.000webhostapp.com/)!!!
 
 
-- i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS](https://www.google.com/search?q=shit&sxsrf=ALiCzsa1b56wH9vLVv6gyemEGeZG3aZgyA:1655197336692&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUjaXKyqz4AhVI4nMBHS0DC1UQ_AUoAXoECAEQAw) is gross
+- i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS](https://www.google.com/search?q=shit&sxsrf=ALiCzsa1b56wH9vLVv6gyemEGeZG3aZgyA:1655197336692&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUjaXKyqz4AhVI4nMBHS0DC1UQ_AUoAXoECAEQAw) is gross ( still know a bit of it though )
 
 
 - at the moment i mostly just make discord bots, but i hope to do more in the future
