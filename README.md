@@ -1,8 +1,8 @@
 # hello fellow coder, I’m TR-ASHcoder but you can call me *TR ASH*
-- I’m currently learning batch, python, c# and html\css 
+- I’m currently learning batch, VBS, python, c# and html\css 
 
 
-- at the moment i'm working on my [website](https://deznats.000webhostapp.com/)!!!
+- i'm not really working on anything at the moment 
 
 
 - i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS](https://www.google.com/search?q=shit&sxsrf=ALiCzsa1b56wH9vLVv6gyemEGeZG3aZgyA:1655197336692&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUjaXKyqz4AhVI4nMBHS0DC1UQ_AUoAXoECAEQAw) is gross ( still know my way around it though )
