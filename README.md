@@ -2,7 +2,7 @@
 - I’m currently learning batch, VBS, python, c# and html\css 
 
 
-- i'm not really working on anything at the moment 
+- i'm working on a new discord bot called Word Search
 
 
 - i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS](https://www.google.com/search?q=shit&sxsrf=ALiCzsa1b56wH9vLVv6gyemEGeZG3aZgyA:1655197336692&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUjaXKyqz4AhVI4nMBHS0DC1UQ_AUoAXoECAEQAw) is gross ( still know my way around it though )
