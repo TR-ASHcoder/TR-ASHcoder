@@ -5,7 +5,7 @@
 - i'm working on a new discord bot called Word Search
 
 
-- i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS]([https://www.google.com/search?q=shit&sxsrf=ALiCzsa1b56wH9vLVv6gyemEGeZG3aZgyA:1655197336692&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjUjaXKyqz4AhVI4nMBHS0DC1UQ_AUoAXoECAEQAw](https://visualstudio.microsoft.com/)) is gross ( still know my way around it though )
+- i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS](https://visualstudio.microsoft.com/) is gross ( still know my way around it though )
 
 
 - at the moment i mostly just make discord bots, but i hope to do more in the future
