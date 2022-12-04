@@ -44,10 +44,9 @@ ____
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TR-ASHcoder&layout=Demo&exclude_lang=ruby&theme=tokyonight" />
   <br/>
   <br/> 
-  <img src="https://discord.c99.nl/widget/theme-3/385354004114178050.png"/>
+  <img src="https://discord.c99.nl/widget/theme-3/385354004114178050.png"/> <img src="https://discord.c99.nl/widget/theme-3/1021290135918219264.png"/>
   <br>
   <br>
-  <img src="https://discord.c99.nl/widget/theme-3/1021290135918219264.png"/>
 </a>
   <br />
   <br />
