@@ -45,8 +45,6 @@ ____
   <br/>
   <br/> 
   <img src="https://discord.c99.nl/widget/theme-3/385354004114178050.png"/> <img src="https://discord.c99.nl/widget/theme-3/1021290135918219264.png"/>
-  <br>
-  <br>
 </a>
   <br />
   <br />
