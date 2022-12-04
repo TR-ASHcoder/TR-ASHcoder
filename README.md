@@ -48,6 +48,11 @@ ____
   <br>
   <br>
   <img src="https://discord.c99.nl/widget/theme-3/1021290135918219264.png"/>
+  <br>
+  <br>
+  <a href="https://top.gg/bot/1021290135918219264">
+  <img src="https://top.gg/api/widget/1021290135918219264.svg">
+</a>
   <br />
   <br />
   <img src="https://komarev.com/ghpvc/?username=TR-ASHcoder&style=flat&color=red"/>
