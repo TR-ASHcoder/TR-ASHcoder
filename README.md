@@ -48,8 +48,6 @@ ____
   <br/>
   <br/> 
 </a>
-  <br />
-  <br />
   <img src="https://komarev.com/ghpvc/?username=TR-ASHcoder&style=flat&color=red"/>
 </p>
 
