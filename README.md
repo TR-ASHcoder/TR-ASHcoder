@@ -51,12 +51,6 @@ ____
   <img src="https://komarev.com/ghpvc/?username=TR-ASHcoder&style=flat&color=red"/>
 </p>
 
-<i><h1>- my code chart -</h1></i>
-    <p id="html"><strong> 100% | html/css </strong></p>
-    <p id="python"><strong>  90% | python </strong></p>
-    <p id="batchvbs"><strong>   89% | batch  </strong></p>
-    <p id="batchvbs"><strong>   89% | vbs  </strong></p>
-    <p id="lua"><strong>     10% | lua  </strong></p></b><h6>ㅤㅤㅤㅤ^^^^^</h6><h6>new lang, bare with me</h6> 
 
 
 
