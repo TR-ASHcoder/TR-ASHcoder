@@ -1,8 +1,8 @@
 # hello fellow programmer, I’m TR-ASHcoder but you can call me *TR ASH*
-- I’m currently learning [HTML\CSS](https://en.wikipedia.org/wiki/HTML), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [VBS](https://en.wikipedia.org/wiki/VBScript), [Batch](https://en.wikipedia.org/wiki/Batch_file) and [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) 
+- I’m currently studying [HTML\CSS](https://en.wikipedia.org/wiki/HTML), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [VBS](https://en.wikipedia.org/wiki/VBScript), [Batch](https://en.wikipedia.org/wiki/Batch_file) and [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) 
 
 
-- i'm working on a new discord bot called [Word Search](https://discord.com/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot%20applications.commands)
+- i'm working on a discord bot called [Word Search](https://discord.com/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot%20applications.commands)
 
 
 - i use [VSCode](https://code.visualstudio.com/docs/?dv=win) but i do know how to use [VS](https://visualstudio.microsoft.com/) ( still gross in my opinion )
