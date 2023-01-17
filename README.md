@@ -1,6 +1,6 @@
 # hello fellow programmer, I’m TR-ASHcoder but you can call me *TR ASH*
 ____
-____
+
 
 - I’m currently studying [HTML\CSS](https://en.wikipedia.org/wiki/HTML), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [VBS](https://en.wikipedia.org/wiki/VBScript), [Batch](https://en.wikipedia.org/wiki/Batch_file) and [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) 
 
@@ -33,7 +33,7 @@ ____
 sub if you want to
 
 
-
+# 
 
 
 <p align="center">
@@ -52,7 +52,7 @@ sub if you want to
 </p>
 
 ____
-____
+
 
 
 
