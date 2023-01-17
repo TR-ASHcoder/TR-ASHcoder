@@ -5,7 +5,7 @@
 - i'm working on a new discord bot called [Word Search](https://discord.com/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot%20applications.commands)
 
 
-- i use [VSCode](https://code.visualstudio.com/docs/?dv=win) because [VS](https://visualstudio.microsoft.com/) is gross ( still know my way around it though )
+- i use [VSCode](https://code.visualstudio.com/docs/?dv=win) but i do know how to use [VS](https://visualstudio.microsoft.com/) ( still gross in my opinion )
 
 
 - at the moment i mostly just make discord bots, but i hope to do more in the future
