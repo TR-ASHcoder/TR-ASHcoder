@@ -13,9 +13,11 @@
 
 # How to reach me: 
 
-- [***discord***](https://discord.gg/gvnj4jEV) ( fastest option )
+- [***discord***](https://discord.gg/gvnj4jEV) ( fast )
 
-- [***gmail***](trash3791@gmail.com) ( slowest option )
+- [***trash3791@gmail.com***](trash3791@gmail.com) ( slow )
+
+- [***twitter***](https://twitter.com/TR_ASH____) ( slowest )
 
 # i also do youtube:
 
