@@ -15,7 +15,7 @@
 
 - [***discord***](https://discord.gg/gvnj4jEV) ( fastest option )
 
-- [***gmail***](trash3791@gmail.com) ( slowest )
+- [***gmail***](trash3791@gmail.com) ( slowest option )
 
 # i also do youtube:
 
