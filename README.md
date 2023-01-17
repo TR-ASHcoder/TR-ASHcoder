@@ -1,5 +1,5 @@
 # hello fellow coder, I’m TR-ASHcoder but you can call me *TR ASH*
-- I’m currently learning [HTML\CSS](https://en.wikipedia.org/wiki/HTML), [Python](https://en.wikipedia.org/wiki/Python_(programming_language), [VBS](https://en.wikipedia.org/wiki/VBScript), [VBS](https://en.wikipedia.org/wiki/VBScript) and [lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) 
+- I’m currently learning [HTML\CSS](https://en.wikipedia.org/wiki/HTML), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [VBS](https://en.wikipedia.org/wiki/VBScript), [Batch](https://en.wikipedia.org/wiki/Batch_file) and [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) 
 
 
 - i'm working on a new discord bot called [Word Search](https://discord.com/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot%20applications.commands)
