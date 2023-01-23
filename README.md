@@ -45,9 +45,9 @@ ____
 
 https://myshittylinkssite.netlify.app/
 
-status:  
 
-![Website](https://img.shields.io/website?label=ㅤ&style=for-the-badge&url=https%3A%2F%2Fmyshittylinkssite.netlify.app/)
+ 
+![Website](https://img.shields.io/website?label=status:&style=for-the-badge&url=https%3A%2F%2Fmyshittylinkssite.netlify.app/)
 
 
 # 
