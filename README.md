@@ -41,7 +41,13 @@ ____
 
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCv501WiSQ5ePSuVOqyVG4Rw?logo=youtube&logoColor=red&style=for-the-badge)
 
+# 🌐 my website: 
 
+https://myshittylinkssite.netlify.app/
+
+status:  
+
+![Website](https://img.shields.io/website?label=ㅤ&style=for-the-badge&url=https%3A%2F%2Fmyshittylinkssite.netlify.app/)
 
 
 # 
