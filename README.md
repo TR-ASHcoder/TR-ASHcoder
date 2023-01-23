@@ -60,7 +60,7 @@ https://myshittylinkssite.netlify.app/
   <img src="https://github-readme-stats-eight-theta.vercel.app/api//?username=TR-ASHcoder&layout=&exclude_lang=ruby&theme=tokyonight" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TR-ASHcoder&layout=&exclude_lang=ruby&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TR-ASHcoder&layout=compact&exclude_lang=ruby&theme=tokyonight" />
   <br/>
   <br/> 
   
