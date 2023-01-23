@@ -12,7 +12,7 @@ ____
 - 🛠️ |ㅤi useㅤ[<img alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/download)ㅤbut i do know how to useㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/)ㅤ( still gross in my opinion )
 
 
-- at the moment i mostly just make discord bots, but i hope to do more in the future :)
+- at the moment i mostly just make discord bots, but i hope to do more in the future (⊙_⊙;)
 
 
 
