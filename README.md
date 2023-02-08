@@ -23,7 +23,7 @@ ____
 
 - [![Mail Badge](https://img.shields.io/badge/-trash3791@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trash3791@gmail.com) ( slow )
 
-- [![Twitter Badge](https://img.shields.io/badge/-@TR_ASH-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TR_ASH____)](https://twitter.com/Ipenywis)  ( slowest )
+- [![Twitter Badge](https://img.shields.io/badge/-@TR_ASH-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TR_ASH____)](https://twitter.com/TR_ASH____)  ( slowest )
 
 
 
