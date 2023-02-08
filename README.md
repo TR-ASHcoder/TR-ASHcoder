@@ -20,6 +20,8 @@ ____
 
 - [***discord***](https://discord.gg/gvnj4jEV) ( fast )
 
+[![Twitter Badge](https://img.shields.io/badge/-@TR_ASH-5865F2?style=flat&labelColor=5865F2&logo=Discord&logoColor=white&link=https://discord.gg/gvnj4jEV)](https://discord.gg/gvnj4jEV)
+
 
 - [![Mail Badge](https://img.shields.io/badge/-trash3791@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trash3791@gmail.com) ( slow )
 
