@@ -12,20 +12,20 @@ ____
 - 🛠️ㅤ|ㅤi useㅤ[<img alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/download)ㅤbut i do know how to useㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/)ㅤ( still gross in my opinion )
 
 
-- at the moment i mostly just make discord bots, but i hope to do more in the future (⊙_⊙;)
+- i do lots of mini projects right now, but i hope to do bigger stuff later in my coding life (ˉ﹃ˉ)
 
 
 
 # 📲 How to reach me: 
 
-- [***discord***](https://discord.gg/gvnj4jEV) ( fast )
-
-[![Twitter Badge](https://img.shields.io/badge/-@TR_ASH-5865F2?style=flat&labelColor=5865F2&logo=Discord&logoColor=white&link=https://discord.gg/gvnj4jEV)](https://discord.gg/gvnj4jEV)
+- [![Discord Badge](https://img.shields.io/badge/-TR_ASH-5865F2?style=flat&labelColor=5865F2&logo=Discord&logoColor=white&link=https://discord.gg/VUqctF8SRv)](https://discord.gg/VUqctF8SRv)
 
 
-- [![Mail Badge](https://img.shields.io/badge/-trash3791@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trash3791@gmail.com) ( slow )
+- [![Mail Badge](https://img.shields.io/badge/-trash3791@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trash3791@gmail.com)
 
-- [![Twitter Badge](https://img.shields.io/badge/-@TR_ASH-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TR_ASH____)](https://twitter.com/TR_ASH____)  ( slowest )
+- [![Twitter Badge](https://img.shields.io/badge/-@TR_ASH-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TR_ASH____)](https://twitter.com/TR_ASH____)
+
+- [![insta Badge](https://img.shields.io/badge/-tr___ash___-962fbf?style=flat&labelColor=d62976&logo=Instagram&logoColor=white&link=https://www.instagram.com/tr___ash___/)](https://www.instagram.com/tr___ash___/)
 
 
 
