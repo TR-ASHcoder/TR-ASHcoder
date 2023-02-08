@@ -24,6 +24,7 @@ ____
 
 - ![Twitter Badge](https://img.shields.io/badge/-@TR_ASH____-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TR_ASH____)  ( slowest )
 
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)]
 
 
 # 📺 i also do youtube:
