@@ -13,7 +13,7 @@ ____
 
 
 
-- 🛠️ㅤ|ㅤi useㅤ[<img alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/download)ㅤfor basic coding andㅤ[<img alt="Visual Studio Code" width="22px" src="https://seeklogo.com/images/G/godot-logo-04018C7E51-seeklogo.com.png" style="padding-right:10px;" />](https://godotengine.org/download/windows/)ㅤfor game creation, but i do know how to useㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/)ㅤ( still gross in my opinion )
+- 🛠️ㅤ|ㅤi useㅤ[<img alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/download)ㅤfor basic coding andㅤ[<img alt="Visual Studio Code" width="22px" src="https://seeklogo.com/images/G/godot-logo-04018C7E51-seeklogo.com.png" style="padding-right:10px;" />](https://godotengine.org/download/windows/)ㅤfor game creation, i do know how to useㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/)ㅤstill hate it with a burning passion 
 
 
 - i do lots of mini projects right now, but i hope to do bigger stuff later in my coding life (ˉ﹃ˉ)
