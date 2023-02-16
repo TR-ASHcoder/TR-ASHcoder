@@ -2,7 +2,7 @@
 
 
 
-# ㅤㅤㅤ👋 ello fellow programmer, I’m TR-ASHcoder, AKA *TR ASH*
+# ㅤㅤ👋 ello fellow programmer, I’m TR-ASHcoder, AKA *TR ASH*
 ____
 
 
