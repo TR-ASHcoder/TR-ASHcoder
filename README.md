@@ -1,4 +1,8 @@
-# 👋 hello fellow programmer, I’m TR-ASHcoder, AKA *TR ASH*
+![image](https://user-images.githubusercontent.com/90879002/219317067-3f88a2fe-0e8b-402d-b314-3df838556b3d.png)
+
+
+
+# 👋 ello fellow programmer, I’m TR-ASHcoder, AKA *TR ASH*
 ____
 
 
