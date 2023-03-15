@@ -9,7 +9,7 @@ ____
 - 📝ㅤ|ㅤI’m currently studying <img width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="padding-right:10px;" /> [HTML\CSS](https://en.wikipedia.org/wiki/HTML), <img width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" /> [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), <img width="23px" src="https://user-images.githubusercontent.com/90879002/214139996-55f7b1fb-56a5-4b8b-a488-e2605430753b.png" style="padding-right:10px;" /> [VBS](https://en.wikipedia.org/wiki/VBScript), <img width="23px" src="https://cdn-icons-png.flaticon.com/512/5261/5261303.png" style="padding-right:10px;" /> [Batch](https://en.wikipedia.org/wiki/Batch_file) and <img width="23px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="padding-right:10px;" /> [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) 
 
 
-- 🤖ㅤ|ㅤi'm working on a discord bot called [Word Search](https://discord.com/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot%20applications.commands)
+- 🎮ㅤ|ㅤi'm working on a roblox game ( so i can learn lua ) called [F!GHT](https://www.roblox.com/games/12728233981/F-GHT?refPageId=e13d2f6a-72fe-472a-9198-7b8df6831d88)
 
 
 
