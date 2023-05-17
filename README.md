@@ -55,7 +55,7 @@ ____
 # 🏃 My running projects:
 *(i have over like 80 projects but these are the main ones)*
 
-[**F!GHT**](https://www.roblox.com/games/12728233981/F-GHT?refPageId=e13d2f6a-72fe-472a-9198-7b8df6831d88) *not out yetz8
+[**F!GHT**](https://www.roblox.com/games/12728233981/F-GHT?refPageId=e13d2f6a-72fe-472a-9198-7b8df6831d88) *not out yet*
 
 [**Word Search**](https://discord.com/api/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot)
 
