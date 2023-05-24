@@ -22,7 +22,7 @@ ____
 
 # 📲 How to reach me: 
 
-- [![Discord Badge](https://img.shields.io/badge/-TR_ASH-5865F2?style=flat&labelColor=5865F2&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](https://discord.gg/VUqctF8SRv)
+- [![Discord Badge](https://img.shields.io/badge/-TR_ASH-5865F2?style=flat&labelColor=5865F2&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](https://discord.com/channels/@me)
 
 
 - [![Mail Badge](https://img.shields.io/badge/-trash3791@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trash3791@gmail.com)
