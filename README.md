@@ -13,7 +13,7 @@ ____
 
 
 
-- 🛠️ㅤ| ㅤi useㅤ [<img alt="not vscode wink wink" width="22px" src="" style="padding-right:10px;" />](https://vscodium.com/#install)ㅤfor basic coding and ㅤ[<img alt="Visual Studio Code" width="22px" src="https://seeklogo.com/images/G/godot-logo-04018C7E51-seeklogo.com.png" style="padding-right:10px;" />](https://godotengine.org/download/windows/)ㅤfor game creation, i do know how to useㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/)ㅤstill hate it with a burning passion 
+- 🛠️ㅤ| ㅤi useㅤ [<img alt="not vscode wink wink" width="22px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" style="padding-right:10px;" />](https://vscodium.com/#install)ㅤ for basic coding and  ㅤ[<img alt="Visual Studio Code" width="22px" src="https://seeklogo.com/images/G/godot-logo-04018C7E51-seeklogo.com.png" style="padding-right:10px;" />](https://godotengine.org/download/windows/)ㅤ for game creation, i do know how to use ㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/) ㅤstill hate it with a burning passion 
 
 
 - i do lots of mini projects right now, but i hope to do bigger stuff later in my coding life (ˉ﹃ˉ)
@@ -49,9 +49,9 @@ ____
 
 [**Movement testing**](https://www.roblox.com/games/14887419602/movement-testing) *being worked on*
 
-[**Word Search**](https://discord.com/api/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot) *debunked sadly* { code is still open sourced tho will upload repo of it later }
+[**Word Search**](https://discord.com/api/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot) *deprecated sadly* { code is still open sourced tho will upload repo of it }
 
-[**Cat Generator**](https://cat-generator.tr-ash.repl.co) *debunked sadly*
+[**Cat Generator**](https://cat-generator.tr-ash.repl.co) *also deprecated*
 
 **GodKin** ( not really MY project but its something i work on with a team, no link yet )
 
