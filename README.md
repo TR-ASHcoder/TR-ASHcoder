@@ -2,7 +2,7 @@
 
 
 
-# ㅤㅤ👋 Saalam fellow programmer, I’m TR-ASHcoder, AKA *TR ASH*
+# ㅤㅤ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Saalam fellow programmer, I’m TR-ASHcoder, AKA *TR ASH*
 ____
 
 
@@ -49,7 +49,7 @@ ____
 
 [**Movement testing**](https://www.roblox.com/games/14887419602/movement-testing) *being worked on*
 
-[**Word Search**](https://github.com/TR-ASHcoder/WS-source-code) *deprecated sadly* { code is still open sourced tho will upload repo of it }
+[**Word Search**](https://github.com/TR-ASHcoder/WS-source-code) *deprecated sadly* { repo up }
 
 [**Cat Generator**](https://cat-generator.tr-ash.repl.co) *also deprecated*
 
