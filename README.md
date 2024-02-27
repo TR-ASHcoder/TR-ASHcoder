@@ -49,7 +49,7 @@ ____
 
 [**Movement testing**](https://www.roblox.com/games/14887419602/movement-testing) *being worked on*
 
-[**Word Search**](https://discord.com/api/oauth2/authorize?client_id=1021290135918219264&permissions=2147665984&scope=bot) *deprecated sadly* { code is still open sourced tho will upload repo of it }
+[**Word Search**](https://github.com/TR-ASHcoder/WS-source-code) *deprecated sadly* { code is still open sourced tho will upload repo of it }
 
 [**Cat Generator**](https://cat-generator.tr-ash.repl.co) *also deprecated*
 
@@ -69,7 +69,7 @@ https://myshittylinkssite.netlify.app/
 
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/385354004114178050.png"/>  <img src="https://discord.c99.nl/widget/theme-3/1021290135918219264.png"/>
+  <img src="https://discord.c99.nl/widget/theme-3/385354004114178050.png"/> 
   <br>
   <br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api//?username=TR-ASHcoder&layout=&exclude_lang=ruby&theme=tokyonight" />
