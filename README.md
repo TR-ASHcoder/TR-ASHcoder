@@ -64,7 +64,7 @@ ____
 
 
  
-![Website](https://img.shields.io/website?label=status:&style=for-the-badge&url=https%3A%2F%2Fhttps://myokaylinkssite.netlify.app/)
+![Website](https://img.shields.io/website?label=status:&style=for-the-badge&url=https%3A%2F%2Fmyokaylinkssite.netlify.app/)
 
 
 
