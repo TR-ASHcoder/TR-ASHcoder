@@ -60,7 +60,7 @@ ____
 
 # 🌐 my website: 
 
-[https://myokaylinkssite.netlify.app//](https://myokaylinkssite.netlify.app//)
+[https://myokaylinkssite.netlify.app//](https://myokaylinkssite.netlify.app/)
 
 
  
