@@ -47,9 +47,7 @@ ____
 # 🏃 My running projects:
 *(i have over like 80 projects but these are the main ones)*
 
-[**F!GHT**](https://www.roblox.com/games/12728233981/F-GHT?refPageId=e13d2f6a-72fe-472a-9198-7b8df6831d88) *hiatus*
-
-[**Movement testing**](https://www.roblox.com/games/14887419602/movement-testing) *hiatus*
+[**F!GHT**](https://www.roblox.com/games/14887419602/movement-testing) *being worked on*
 
 [**Cat Generator**](https://cat-generator.tr-ash.repl.co) *coming back??*
 
