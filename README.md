@@ -37,11 +37,13 @@ ____
 
 
 # 📺 i also do youtube:
-
-- [***TR ASH***](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
-
-
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnCUHqT1Jo_JDEtfS07g42g?logo=youtube&logoColor=red&style=for-the-badge)
+i dont post much tho (¬‿¬)
+<br>
+<br>
+-[***TR ASH***](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
+<br>
+<br>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnCUHqT1Jo_JDEtfS07g42g?logo=youtube&logoColor=red&style=for-the-badge)
 
 
 # 🏃 My running projects:
@@ -53,14 +55,14 @@ ____
 
 [**boon**](https://github.com/TR-ASHcoder/Boon) *hiatus*
 
-[**T.H.P**](https://github.com/TR-ASHcoder/The-Hadith-Project-/tree/main) *main*
+[**T.H.P**](https://github.com/TR-ASHcoder/The-Hadith-Project-/tree/main) *done*
 
 **GodKin** ( not really MY project but its something i work on with a team, no link yet )
 
 
 # 🌐 my website: 
 
-[https://myokaylinkssite.netlify.app//](https://myokaylinkssite.netlify.app/)
+[myokaylinkssite.netlify.app//](https://myokaylinkssite.netlify.app/)
 
 
  
