@@ -8,14 +8,14 @@
 ____
 
 
-- 📝ㅤ| ㅤI’m currently studying <img width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="padding-right:10px;" /> [HTML\CSS](https://en.wikipedia.org/wiki/HTML), <img width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" /> [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), and <img width="23px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="padding-right:10px;" /> [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) 
+- 📝ㅤ| ㅤI’m currently studying <img width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="padding-right:10px;" /> [HTML\CSS](https://en.wikipedia.org/wiki/HTML), <img width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" /> [Python](https://www.python.org/), and <img width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" style="padding-right:10px;" /> [TypeScript](https://www.typescriptlang.org/) 
 
 
 - 🛌| nothing at the moment :]
 
 
 
-- 🛠️ㅤ| ㅤi useㅤ [<img alt="not vscode wink wink" width="22px" src="https://images.seeklogo.com/logo-png/32/1/visual-studio-code-logo-png_seeklogo-323431.png?v=1957908002713609064" style="padding-right:10px;" />](https://vscodium.com/#install)ㅤfor basic coding and  [ㅤ<img alt="Godot" width="22px" src="https://seeklogo.com/images/G/godot-logo-04018C7E51-seeklogo.com.png" style="padding-right:10px;" />](https://godotengine.org/download/windows/)ㅤ for game creation, i do know how to use ㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/) ㅤstill hate it with a burning passion 
+- 🛠️ㅤ| ㅤi useㅤ [<img alt="not vscode wink wink" width="22px" src="https://images.seeklogo.com/logo-png/32/1/visual-studio-code-logo-png_seeklogo-323431.png?v=1957908002713609064" style="padding-right:10px;" />](https://vscodium.com/#install)ㅤ  for basic coding and  [ㅤ<img alt="Godot" width="22px" src="https://seeklogo.com/images/G/godot-logo-04018C7E51-seeklogo.com.png" style="padding-right:10px;" />](https://godotengine.org/download/windows/)ㅤ for game creation, i do know how to use ㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/) ㅤstill hate it with a burning passion 
 
 
 - i do lots of mini projects right now, but i hope to do bigger stuff later in my coding life (•_•)
