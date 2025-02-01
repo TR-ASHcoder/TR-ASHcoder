@@ -24,7 +24,7 @@ ____
 
 # 📲 How to reach me: 
 
-- [![Discord Badge](https://img.shields.io/badge/-usernamee.-5865F2?style=flat&labelColor=5865F2&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](discordapp.com/users/385354004114178050)
+- [![Discord Badge](https://img.shields.io/badge/-usernamee.-5865F2?style=flat&labelColor=5865F2&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](https://discordapp.com/users/385354004114178050)
 
 
 - [![Mail Badge](https://img.shields.io/badge/-trash3791@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:trash3791@gmail.com)
