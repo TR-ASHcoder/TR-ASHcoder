@@ -13,11 +13,14 @@ ____
 - 📝ㅤ| ㅤI’m currently studying <img width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="padding-right:10px;" /> [HTML\CSS](https://en.wikipedia.org/wiki/HTML), <img width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" /> [Python](https://www.python.org/), and <img width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" style="padding-right:10px;" /> [TypeScript](https://www.typescriptlang.org/) 
 
 
+
 - 🛌| nothing at the moment (￣o￣) . z Z
 
 
 
-- 🛠️ㅤ| ㅤi useㅤ [<img alt="not vscode wink wink" width="22px" src="https://images.seeklogo.com/logo-png/32/1/visual-studio-code-logo-png_seeklogo-323431.png?v=1957908002713609064" style="padding-right:10px;" />](https://vscodium.com/#install)ㅤ  for basic coding and  [ㅤ<img alt="Godot" width="22px" src="https://seeklogo.com/images/G/godot-logo-04018C7E51-seeklogo.com.png" style="padding-right:10px;" />](https://godotengine.org/download/windows/)ㅤ for game creation, i do know how to use ㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/) ㅤstill hate it with a burning passion 
+- 🛠️ㅤ| ㅤi useㅤ [<img alt="not vscode wink wink" width="22px" src="https://github.com/user-attachments/assets/4bea474f-7b6a-4e93-aec2-f32243c3effe" style="padding-right:10px;" />](https://vscodium.com/#install)ㅤ  for basic coding and  [ㅤ<img alt="Godot" width="22px" src="https://godotengine.org/assets/press/icon_color.svg" style="padding-right:10px;" />](https://godotengine.org/download/windows/)ㅤ for game creation, i do know how to use ㅤ[<img alt="Visual Studio" width="22px" src="https://user-images.githubusercontent.com/90879002/214135633-f489ead8-d75f-43fc-ae04-1d8e185fac35.png" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/) ㅤbut hate it with a burning passion 
+
+
 
 
 - i do lots of mini projects right now, but i hope to do bigger stuff later in my coding life (•_•)
@@ -51,13 +54,11 @@ i dont post much tho (¬‿¬)
 # 🏃 My running projects:
 *(i have over like 80 projects but these are the main ones)*
 
-[**F!GHT**](https://www.roblox.com/games/14887419602/movement-testing) *being worked on*
+[**F!GHT**](https://www.roblox.com/games/14887419602/movement-testing) *hiatus.. again*
 
 [**Cat Generator**](https://cat-generator.tr-ash.repl.co) *coming back??*
 
 [**boon**](https://github.com/TR-ASHcoder/Boon) *hiatus*
-
-[**T.H.P**](https://github.com/TR-ASHcoder/The-Hadith-Project-/tree/main) *done*
 
 **GodKin** ( not really MY project but its something i work on with a team, no link yet )
 
@@ -84,7 +85,6 @@ explore all its secrets!
   <img src="https://github-readme-stats-eight-theta.vercel.app/api//?username=TR-ASHcoder&layout=&exclude_lang=ruby&theme=tokyonight" />
   <br/>
   <br/>
-  <img height="190cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TR-ASHcoder&layout=donut&exclude_lang=ruby&theme=tokyonight">
   <br/>
   <br/> 
   
