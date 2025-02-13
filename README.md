@@ -61,8 +61,9 @@ i dont post much tho (¬‿¬)
 
 
 # 🌐 my website: 
+exlpore all its secrets!
 
-[myokaylinkssite.netlify.app//](https://myokaylinkssite.netlify.app/)
+[myokaylinkssite.netlify.app/](https://myokaylinkssite.netlify.app/)
 
 
  
