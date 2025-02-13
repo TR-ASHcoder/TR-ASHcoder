@@ -11,7 +11,7 @@ ____
 - 📝ㅤ| ㅤI’m currently studying <img width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="padding-right:10px;" /> [HTML\CSS](https://en.wikipedia.org/wiki/HTML), <img width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" /> [Python](https://www.python.org/), and <img width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" style="padding-right:10px;" /> [TypeScript](https://www.typescriptlang.org/) 
 
 
-- 🛌| nothing at the moment :]
+- 🛌| nothing at the moment (￣o￣) . z Z
 
 
 
