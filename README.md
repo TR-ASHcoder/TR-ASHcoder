@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/4535dc7f-f908-4703-92bd-2e7c94244191)
-
-
+![dithered(9)](https://github.com/user-attachments/assets/13f1ac37-5343-4577-93c9-570c71e444a5)
 
 
 
