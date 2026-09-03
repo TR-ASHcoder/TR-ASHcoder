@@ -7,22 +7,22 @@ ____
 
 
 
-- 📝ㅤ| ㅤI’m currently studying a Diploma of I.T
+- 📝ㅤ ➢ ㅤI’m currently studying a Diploma of I.T
 
 
-- 🧑‍💻| the main coding langs i use atm are. Python, Java, HTML/CSS ( ik it isnt a coding lang shut up )
+- 🧑‍💻 ➢ the main coding langs i use atm are. Python, Java, HTML/CSS ( ik it isnt a coding lang shut up )
 
 
-- 🧠| i have skills in Networking, Programming and hardware 
+- 🧠 ➢ i have skills in Networking, Programming and hardware 
 
 
-- 🛌| nothing at the moment (￣o￣) . z Z
+- 🤖 ➢ Reviving my old discord music bot i made when i was 13 ! 
 
 
-- 🛠️ㅤ| ㅤi useㅤ VMCodium for my most of my coding unless its Java then i use Apache NetBeans and for game creation i use GODOT
+- 🛠️ㅤ ➢ ㅤi useㅤ VMCodium for my most of my coding unless its Java then i use Apache NetBeans and for game creation i use GODOT
 
 
-- 💭| i hope to advance my knowledge in networking and programming
+- 💭 ➢ i hope to advance my knowledge in networking and programming
 
 
 
@@ -46,7 +46,7 @@ ____
 i dont post much tho (¬‿¬)
 <br>
 <br>
-[***TR ASH***](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
+➢ [***TR ASH***](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
 <br>
 <br>
 
