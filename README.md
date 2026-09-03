@@ -46,10 +46,9 @@ ____
 i dont post much tho (¬‿¬)
 <br>
 <br>
--[***TR ASH***](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
+[***TR ASH***](https://youtube.com/channel/UCnCUHqT1Jo_JDEtfS07g42g)
 <br>
 <br>
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnCUHqT1Jo_JDEtfS07g42g?logo=youtube&logoColor=red&style=for-the-badge)
 
 
 # 🏃 My running projects:
