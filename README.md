@@ -1,6 +1,10 @@
 ![bannerct(3)](https://github.com/user-attachments/assets/c03081a7-46db-43c9-88f4-b43537fd1678)
-https://soundcloud.com/nashon9k/balmain-central-prod-4muchi
+
+
+
 ____
+
+
 
 
 - 📝ㅤ| ㅤI’m currently studying a Diploma of I.T
